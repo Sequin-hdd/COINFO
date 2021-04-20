@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T14:15:38.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="zI5RojRnuhZxmPY3iBec" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-20T14:27:07.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="nP56D-dkZiVeQbQfwN8g" version="14.6.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="652" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,27 +47,30 @@
           <mxGeometry x="110" y="880" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HuKOBxeY3gApm7Wj72km-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="710" width="400" height="400" as="geometry" />
+          <mxGeometry x="220" y="700" width="410" height="410" as="geometry" />
         </mxCell>
         <mxCell id="HuKOBxeY3gApm7Wj72km-19" value="应用管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="815" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="HuKOBxeY3gApm7Wj72km-58" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HuKOBxeY3gApm7Wj72km-20" target="HuKOBxeY3gApm7Wj72km-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HuKOBxeY3gApm7Wj72km-20" value="组员管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="760" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HuKOBxeY3gApm7Wj72km-21" value="应用创建审批" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HuKOBxeY3gApm7Wj72km-21" value="应用创建申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="815" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HuKOBxeY3gApm7Wj72km-22" value="统计数据查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="1050" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HuKOBxeY3gApm7Wj72km-23" value="权限管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="720" width="80" height="40" as="geometry" />
+          <mxGeometry x="500" y="710" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HuKOBxeY3gApm7Wj72km-24" value="加组审批" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="790" width="80" height="40" as="geometry" />
+          <mxGeometry x="500" y="812" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HuKOBxeY3gApm7Wj72km-25" value="应用创建申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HuKOBxeY3gApm7Wj72km-25" value="应用创建审批" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="870" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HuKOBxeY3gApm7Wj72km-26" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -158,10 +161,10 @@
           <mxGeometry x="345.3" y="870" as="geometry" />
         </mxCell>
         <mxCell id="HuKOBxeY3gApm7Wj72km-49" value="《包含》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="760" as="geometry" />
+          <mxGeometry x="472" y="758" as="geometry" />
         </mxCell>
         <mxCell id="HuKOBxeY3gApm7Wj72km-50" value="《包含》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="800" as="geometry" />
+          <mxGeometry x="470" y="803" as="geometry" />
         </mxCell>
         <mxCell id="HuKOBxeY3gApm7Wj72km-51" value="《包含》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="345.3" y="960" as="geometry" />
@@ -177,6 +180,12 @@
         </mxCell>
         <mxCell id="HuKOBxeY3gApm7Wj72km-55" value="《包含》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460.00033754642027" y="570.0015847808099" as="geometry" />
+        </mxCell>
+        <mxCell id="HuKOBxeY3gApm7Wj72km-57" value="加组申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HuKOBxeY3gApm7Wj72km-59" value="《包含》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="472" y="780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
