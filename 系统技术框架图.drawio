@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T14:55:57.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="gTzdmHir0GTr7dIiiJix" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T15:04:32.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="uArJY2emfKcfx-Bt1nhN" version="14.6.6" type="github">
   <diagram id="vNM15qeYT9EExKCgJNkL" name="第 1 页">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
         <mxCell id="6xyBLph1M2rWBh-eGpku-89" value="机器学习工作流配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="251.82999999999998" y="685" width="75.62" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-90" value="CICD任务自动化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6xyBLph1M2rWBh-eGpku-90" value="CICD任务配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="348.13" y="685" width="75.62" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6xyBLph1M2rWBh-eGpku-91" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
