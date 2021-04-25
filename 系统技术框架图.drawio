@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T13:05:26.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="3jYGBmLACTOAEwiEstBx" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T13:08:30.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="xKoi0R47a33D6cZaWrjx" version="14.6.6" type="github">
   <diagram id="vNM15qeYT9EExKCgJNkL" name="第 1 页">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,13 +149,22 @@
           <mxGeometry x="100" y="850" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6xyBLph1M2rWBh-eGpku-68" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="84" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="84" y="910" width="436" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6xyBLph1M2rWBh-eGpku-69" value="PC浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="630" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6xyBLph1M2rWBh-eGpku-70" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445.5" y="685" width="53" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-72" value="面向算法金融产品研发过程的CI/CD自动化系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="620" width="460" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-74" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="710" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="700" width="30" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
