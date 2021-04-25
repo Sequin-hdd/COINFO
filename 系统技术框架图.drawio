@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T15:04:32.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="uArJY2emfKcfx-Bt1nhN" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T15:27:08.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="9E9ZS2Rsi20bxvBTcj09" version="14.6.6" type="github">
   <diagram id="vNM15qeYT9EExKCgJNkL" name="第 1 页">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,11 +163,8 @@
         <mxCell id="6xyBLph1M2rWBh-eGpku-78" value="个人信息查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="759" width="20" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-89" value="机器学习工作流配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="251.82999999999998" y="685" width="75.62" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-90" value="CICD任务配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="348.13" y="685" width="75.62" height="30" as="geometry" />
+        <mxCell id="6xyBLph1M2rWBh-eGpku-90" value="CICD自动化管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="685" width="173.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6xyBLph1M2rWBh-eGpku-91" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="184.65" y="685" width="53" height="30" as="geometry" />
@@ -234,6 +231,24 @@
         </mxCell>
         <mxCell id="6xyBLph1M2rWBh-eGpku-83" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390.95" y="938" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-113" value="CICD任务执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="685" width="173.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-114" value="CICD任务执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="710" width="173.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-115" value="CI管道&lt;br&gt;任务构建与执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="759" width="20" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-116" value="CD管道任务申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="759" width="20" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-117" value="CD管道任务审批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="761" width="20" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-118" value="CD模型任务审批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="760" width="20" height="151" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
