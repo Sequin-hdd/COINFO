@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T02:08:34.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" version="14.6.6" etag="hBeFRTsjqfnMUewjOCvt" type="github"><diagram id="vNM15qeYT9EExKCgJNkL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-25T03:48:38.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="qusCzM1fYBRSGVQiWEh_" version="14.6.6" type="github">
+  <diagram id="vNM15qeYT9EExKCgJNkL" name="第 1 页">
+    <mxGraphModel dx="782" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6xyBLph1M2rWBh-eGpku-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="70" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-2" value="前端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-3" value="界面： MATERIAL-UI组件库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="85" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-4" value="业务逻辑： React.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="85" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="315" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-8" value="HTTP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="363" y="152" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="191" width="540" height="359" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-10" value="Nginx反向代理+Gunicorn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="203" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="240" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-16" value="web框架：Python Flask&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="250" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="132" y="491" width="478" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="133" y="430" width="477" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6xyBLph1M2rWBh-eGpku-21">
+          <mxGeometry width="476.99999999999994" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-13" value="PostgreSQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6xyBLph1M2rWBh-eGpku-21">
+          <mxGeometry x="108.10514018691588" y="5" width="133.73831775700933" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-14" value="存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6xyBLph1M2rWBh-eGpku-21">
+          <mxGeometry x="18.94626168224299" y="10" width="66.86915887850466" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-15" value="MooseFS集群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6xyBLph1M2rWBh-eGpku-21">
+          <mxGeometry x="286.42289719626166" y="5" width="133.73831775700933" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.53;dx=12;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="405.5" width="39" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-26" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.53;dx=12;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="430" y="405.5" width="39" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-27" value="任务调度系统&lt;br&gt;Airflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="134" y="280" width="87" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-28" value="持续集成工具&lt;br&gt;Jenkins" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="345.5" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-29" value="操作系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="496" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-31" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.53;dx=12;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="363.5" width="40" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-32" value="统一认证服务&lt;br&gt;OpenLDAP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-33" value="代码管理&lt;br&gt;Git" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="345.5" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.53;dx=12;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="298" width="40" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-34" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.53;dx=12;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="363.5" width="40" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-35" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.53;dx=12;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="298" width="40" height="14" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
