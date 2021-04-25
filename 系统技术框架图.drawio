@@ -1,89 +1,128 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T03:48:38.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="qusCzM1fYBRSGVQiWEh_" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T04:38:29.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="iJUAedqDzgpk1nhee4aU" version="14.6.6" type="github">
   <diagram id="vNM15qeYT9EExKCgJNkL" name="第 1 页">
     <mxGraphModel dx="782" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6xyBLph1M2rWBh-eGpku-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="70" width="490" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-2" value="前端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="90" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-3" value="界面： MATERIAL-UI组件库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="85" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-4" value="业务逻辑： React.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="85" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="315" y="145" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-8" value="HTTP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="363" y="152" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="6xyBLph1M2rWBh-eGpku-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="191" width="540" height="359" as="geometry" />
+          <mxGeometry x="100" y="191" width="540" height="219" as="geometry" />
         </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-10" value="Nginx反向代理+Gunicorn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="203" width="480" height="30" as="geometry" />
+        <mxCell id="6xyBLph1M2rWBh-eGpku-51" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="498.5" y="309" width="120" height="91" as="geometry" />
         </mxCell>
         <mxCell id="6xyBLph1M2rWBh-eGpku-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="250" width="240" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-16" value="web框架：Python Flask&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="250" width="140" height="20" as="geometry" />
+        <mxCell id="6xyBLph1M2rWBh-eGpku-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="310" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="132" y="491" width="478" height="30" as="geometry" />
+        <mxCell id="6xyBLph1M2rWBh-eGpku-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="96" width="540" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="133" y="430" width="477" height="40" as="geometry" />
+        <mxCell id="6xyBLph1M2rWBh-eGpku-2" value="前端技术" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="15.000000000000002" y="116" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6xyBLph1M2rWBh-eGpku-21">
-          <mxGeometry width="476.99999999999994" height="40" as="geometry" />
+        <mxCell id="6xyBLph1M2rWBh-eGpku-3" value="UI框架： MATERIAL-UI组件库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="111" width="165" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-13" value="PostgreSQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6xyBLph1M2rWBh-eGpku-21">
-          <mxGeometry x="108.10514018691588" y="5" width="133.73831775700933" height="30" as="geometry" />
+        <mxCell id="6xyBLph1M2rWBh-eGpku-4" value="JS框架： React.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="111" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-14" value="存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6xyBLph1M2rWBh-eGpku-21">
-          <mxGeometry x="18.94626168224299" y="10" width="66.86915887850466" height="20" as="geometry" />
+        <mxCell id="6xyBLph1M2rWBh-eGpku-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.73;dx=10.67;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="364.5" y="160.5" width="34" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-15" value="MooseFS集群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6xyBLph1M2rWBh-eGpku-21">
-          <mxGeometry x="286.42289719626166" y="5" width="133.73831775700933" height="30" as="geometry" />
+        <mxCell id="6xyBLph1M2rWBh-eGpku-8" value="HTTP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="394.5" y="163" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.53;dx=12;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="277.5" y="405.5" width="39" height="14" as="geometry" />
+        <mxCell id="6xyBLph1M2rWBh-eGpku-10" value="Nginx+Gunicorn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="203" width="480" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-26" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.53;dx=12;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="430" y="405.5" width="39" height="14" as="geometry" />
+        <mxCell id="6xyBLph1M2rWBh-eGpku-16" value="Web应用框架：Python Flask&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="260" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-27" value="任务调度系统&lt;br&gt;Airflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="134" y="280" width="87" height="50" as="geometry" />
+        <mxCell id="6xyBLph1M2rWBh-eGpku-17" value="Linux系统： CentOS 7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="491" width="540" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-28" value="持续集成工具&lt;br&gt;Jenkins" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6xyBLph1M2rWBh-eGpku-27" value="统一认证服务&lt;br&gt;OpenLDAP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="280.6" width="87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-28" value="代码管理&lt;br&gt;Git" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="345.5" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6xyBLph1M2rWBh-eGpku-29" value="操作系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="155" y="496" width="55" height="20" as="geometry" />
+          <mxGeometry x="12.5" y="496" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6xyBLph1M2rWBh-eGpku-31" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.53;dx=12;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="215" y="363.5" width="40" height="14" as="geometry" />
+          <mxGeometry x="213" y="363.5" width="55" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-32" value="统一认证服务&lt;br&gt;OpenLDAP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="280" width="90" height="50" as="geometry" />
+        <mxCell id="6xyBLph1M2rWBh-eGpku-32" value="任务调度系统&lt;br&gt;Airflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="564" y="320" width="45" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-33" value="代码管理&lt;br&gt;Git" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="345.5" width="90" height="50" as="geometry" />
+        <mxCell id="6xyBLph1M2rWBh-eGpku-33" value="持续集成工具&lt;br&gt;Jenkins" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="503" y="320" width="50" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.53;dx=12;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="485" y="298" width="40" height="14" as="geometry" />
+        <mxCell id="6xyBLph1M2rWBh-eGpku-34" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.64;dx=6;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="477" y="330.5" width="30" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-34" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.53;dx=12;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="485" y="363.5" width="40" height="14" as="geometry" />
+        <mxCell id="6xyBLph1M2rWBh-eGpku-36" value="服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="208" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-37" value="用户认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="262" y="286" width="70" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-39" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=10;notch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="277.65" y="310.6" width="30.7" height="10.13" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-42" value="管道持续集成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="333.07" width="56" height="30.93" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-43" value="管道持续&lt;br&gt;交付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="345.94" width="60.25" height="29.07" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-46" value="模型持续&lt;br&gt;交付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="353.94" width="60.25" height="29.07" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-47" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.64;dx=6;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="546" y="329.5" width="25" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-45" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=10;notch=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="397" y="350.94" width="20" height="11.06" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-40" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=10;notch=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="340.94" width="20" height="11.06" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-52" value="存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6.5662616822430095" y="445" width="66.86915887850466" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-53" value="后端技术" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="15" y="290.6" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-54" value="MLOps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="348.13" y="308.07" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="430" width="540" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-13" value="关系型数据库：PostgreSQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="134.9967924528302" y="440" width="192.45283018867926" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-15" value="分布式文件系统：MooseFS集群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="398.50113207547173" y="440" width="203.77358490566039" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.53;dx=12;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="216.38" y="411.63" width="28" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.53;dx=12;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="521.5" y="411.13" width="30" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-26" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.53;dx=12;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="361.28" y="412.16" width="29.67" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="6xyBLph1M2rWBh-eGpku-58" value="构建工具： Webpack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="111" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6xyBLph1M2rWBh-eGpku-35" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.53;dx=12;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="215" y="298" width="40" height="14" as="geometry" />
+          <mxGeometry x="217" y="288" width="50" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
