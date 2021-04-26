@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T01:41:32.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="M6loU8rP2vnkaTxW3Ppt" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T02:59:53.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="OzPhbPt6KFYPvE4MS3wa" version="14.6.6" type="github">
   <diagram id="vNM15qeYT9EExKCgJNkL" name="第 1 页">
-    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -274,7 +274,7 @@
         <mxCell id="6xyBLph1M2rWBh-eGpku-114" value="CI/CD任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="777" y="710" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6xyBLph1M2rWBh-eGpku-115" value="管道&lt;br&gt;集成任务构建与执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6xyBLph1M2rWBh-eGpku-115" value="管道&lt;br&gt;集成任务构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="818.5" y="779" width="20" height="161" as="geometry" />
         </mxCell>
         <mxCell id="6xyBLph1M2rWBh-eGpku-116" value="管道交付任务申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
