@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T05:40:58.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="8FXO-G29Zue9tNaQKw_e" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T07:28:33.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="8joxrBDPWiW6t9jPU1OQ" version="14.6.9" type="github">
   <diagram id="h-_epVCW1KijTZJuSnWB" name="第 1 页">
-    <mxGraphModel dx="920" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,7 +101,7 @@
         <mxCell id="ekuATIdbjf78deo_ckGt-33" value="&lt;span style=&quot;font-size: 15px&quot;&gt;触发Airflow&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="350" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-34" value="&lt;span style=&quot;font-size: 15px&quot;&gt;生成并执行管道集成任务的DAG&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ekuATIdbjf78deo_ckGt-34" value="&lt;span style=&quot;font-size: 15px&quot;&gt;生成并手动触发管道集成任务的DAG&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="430" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ekuATIdbjf78deo_ckGt-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-34" target="ekuATIdbjf78deo_ckGt-36">
