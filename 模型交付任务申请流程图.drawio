@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T07:01:03.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="xTnH2u6nYjDcrJA27Lxb" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T07:13:08.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="JcXwjrQhsPCCU1RoY_Zv" version="14.6.9" type="github">
   <diagram id="ifrcHjR2s2CyXcALeK9n" name="第 1 页">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,29 +46,44 @@
         <mxCell id="tka6Fen1VaplqWncl_Fh-7" value="&lt;span style=&quot;font-size: 15px&quot;&gt;设置模型交付任务的执行周期&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="123" y="600" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tka6Fen1VaplqWncl_Fh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tka6Fen1VaplqWncl_Fh-8" target="tka6Fen1VaplqWncl_Fh-9">
+        <mxCell id="tka6Fen1VaplqWncl_Fh-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tka6Fen1VaplqWncl_Fh-8" target="tka6Fen1VaplqWncl_Fh-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tka6Fen1VaplqWncl_Fh-8" value="&lt;span style=&quot;font-size: 15px&quot;&gt;提交审批&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="155.5" y="670" width="115" height="40" as="geometry" />
+        <mxCell id="tka6Fen1VaplqWncl_Fh-8" value="&lt;span style=&quot;font-size: 15px&quot;&gt;在pull request下评论执行模型交付任务&lt;/span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127.75" y="670" width="170.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tka6Fen1VaplqWncl_Fh-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tka6Fen1VaplqWncl_Fh-9" target="tka6Fen1VaplqWncl_Fh-10">
+        <mxCell id="tka6Fen1VaplqWncl_Fh-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tka6Fen1VaplqWncl_Fh-11" target="tka6Fen1VaplqWncl_Fh-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tka6Fen1VaplqWncl_Fh-9" value="&lt;span style=&quot;font-size: 15px&quot;&gt;审批通过&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="320" y="653.3399999999999" width="132" height="73.33" as="geometry" />
-        </mxCell>
-        <mxCell id="tka6Fen1VaplqWncl_Fh-10" value="&lt;span style=&quot;font-size: 15px&quot;&gt;评论审批结果并关闭pull request&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="296" y="770" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tka6Fen1VaplqWncl_Fh-11" value="&lt;span style=&quot;font-size: 15px&quot;&gt;在pull request下添加审批结果&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="410" width="230" height="40" as="geometry" />
+        <mxCell id="tka6Fen1VaplqWncl_Fh-11" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Jenkins感知评论&lt;/span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452" y="390" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tka6Fen1VaplqWncl_Fh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tka6Fen1VaplqWncl_Fh-21" target="tka6Fen1VaplqWncl_Fh-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tka6Fen1VaplqWncl_Fh-21" value="&lt;span style=&quot;font-size: 15px&quot;&gt;同步&lt;/span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;代码和模型到生产环境中&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="123" y="530" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tka6Fen1VaplqWncl_Fh-27" target="tka6Fen1VaplqWncl_Fh-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-27" value="&lt;span style=&quot;font-size: 15px&quot;&gt;触发Airflow&lt;/span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="506" y="460" width="122" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tka6Fen1VaplqWncl_Fh-28" target="tka6Fen1VaplqWncl_Fh-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-28" value="&lt;span style=&quot;font-size: 15px&quot;&gt;生成并定期自动触发模型交付任务的DAG&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="487" y="530" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tka6Fen1VaplqWncl_Fh-29" target="tka6Fen1VaplqWncl_Fh-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-29" value="&lt;span style=&quot;font-size: 15px&quot;&gt;更新管道交付任务查询页面信息&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="497" y="600" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-30" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;glass=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="522" y="660" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
