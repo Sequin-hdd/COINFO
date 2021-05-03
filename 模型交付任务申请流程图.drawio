@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T06:37:35.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" version="14.6.9" etag="N0H5eVItEh82ntVyekxW" type="github"><diagram id="ifrcHjR2s2CyXcALeK9n">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-03T07:01:03.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="xTnH2u6nYjDcrJA27Lxb" version="14.6.9" type="github">
+  <diagram id="ifrcHjR2s2CyXcALeK9n" name="第 1 页">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tka6Fen1VaplqWncl_Fh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tka6Fen1VaplqWncl_Fh-1" target="tka6Fen1VaplqWncl_Fh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-1" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;glass=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="168" y="100" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tka6Fen1VaplqWncl_Fh-2" target="tka6Fen1VaplqWncl_Fh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-2" value="&lt;span style=&quot;font-size: 15px&quot;&gt;点击&lt;br&gt;“CD WORKFLOW”&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="180" width="146" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tka6Fen1VaplqWncl_Fh-3" target="tka6Fen1VaplqWncl_Fh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-3" value="&lt;span style=&quot;font-size: 15px&quot;&gt;点击&lt;br&gt;“choose CD pipeline to release CD model”&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="69.5" y="390" width="287" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tka6Fen1VaplqWncl_Fh-4" target="tka6Fen1VaplqWncl_Fh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-4" value="&lt;span style=&quot;font-size: 15px&quot;&gt;选择模型管道&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="250" width="146" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tka6Fen1VaplqWncl_Fh-5" target="tka6Fen1VaplqWncl_Fh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-5" value="&lt;span style=&quot;font-size: 15px&quot;&gt;选择历史运行任务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="320" width="146" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tka6Fen1VaplqWncl_Fh-6" target="tka6Fen1VaplqWncl_Fh-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-6" value="&lt;span style=&quot;font-size: 15px&quot;&gt;确认工作流信息&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="123" y="460" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tka6Fen1VaplqWncl_Fh-7" target="tka6Fen1VaplqWncl_Fh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-7" value="&lt;span style=&quot;font-size: 15px&quot;&gt;设置模型交付任务的执行周期&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="123" y="600" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tka6Fen1VaplqWncl_Fh-8" target="tka6Fen1VaplqWncl_Fh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-8" value="&lt;span style=&quot;font-size: 15px&quot;&gt;提交审批&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155.5" y="670" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tka6Fen1VaplqWncl_Fh-9" target="tka6Fen1VaplqWncl_Fh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-9" value="&lt;span style=&quot;font-size: 15px&quot;&gt;审批通过&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="653.3399999999999" width="132" height="73.33" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-10" value="&lt;span style=&quot;font-size: 15px&quot;&gt;评论审批结果并关闭pull request&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="296" y="770" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-11" value="&lt;span style=&quot;font-size: 15px&quot;&gt;在pull request下添加审批结果&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="410" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tka6Fen1VaplqWncl_Fh-21" target="tka6Fen1VaplqWncl_Fh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tka6Fen1VaplqWncl_Fh-21" value="&lt;span style=&quot;font-size: 15px&quot;&gt;同步&lt;/span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;代码和模型到生产环境中&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="123" y="530" width="180" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
