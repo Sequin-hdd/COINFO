@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T07:28:33.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="8joxrBDPWiW6t9jPU1OQ" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-04T00:44:57.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="MG3UcfqtZ9GXlHiB4MdM" version="14.6.9" type="github">
   <diagram id="h-_epVCW1KijTZJuSnWB" name="第 1 页">
-    <mxGraphModel dx="920" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ekuATIdbjf78deo_ckGt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-1" target="ekuATIdbjf78deo_ckGt-2">
+        <mxCell id="ekuATIdbjf78deo_ckGt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-1" target="ekuATIdbjf78deo_ckGt-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-1" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;glass=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="ekuATIdbjf78deo_ckGt-1" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;glass=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="310" y="40" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-2" target="ekuATIdbjf78deo_ckGt-4">
+        <mxCell id="ekuATIdbjf78deo_ckGt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-2" target="ekuATIdbjf78deo_ckGt-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-2" value="&lt;font style=&quot;font-size: 15px&quot;&gt;进入系统主页面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ekuATIdbjf78deo_ckGt-2" value="&lt;font style=&quot;font-size: 15px&quot;&gt;进入系统主页面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="295" y="130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-4" target="ekuATIdbjf78deo_ckGt-5">
+        <mxCell id="ekuATIdbjf78deo_ckGt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-4" target="ekuATIdbjf78deo_ckGt-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="355" y="280" />
@@ -24,13 +24,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-4" target="ekuATIdbjf78deo_ckGt-10">
+        <mxCell id="ekuATIdbjf78deo_ckGt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-4" target="ekuATIdbjf78deo_ckGt-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-4" value="&lt;span style=&quot;font-size: 15px&quot;&gt;点击&lt;br&gt;“CI WORKFLOW”&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ekuATIdbjf78deo_ckGt-4" value="&lt;span style=&quot;font-size: 15px&quot;&gt;点击&lt;br&gt;“CI WORKFLOW”&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="282" y="210" width="146" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-5" target="ekuATIdbjf78deo_ckGt-17">
+        <mxCell id="ekuATIdbjf78deo_ckGt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-5" target="ekuATIdbjf78deo_ckGt-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="500" />
@@ -38,95 +38,95 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-5" value="&lt;span style=&quot;font-size: 15px&quot;&gt;点击&lt;br&gt;“CREATE MODEL PIPELINE”&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ekuATIdbjf78deo_ckGt-5" value="&lt;span style=&quot;font-size: 15px&quot;&gt;点击&lt;br&gt;“CREATE MODEL PIPELINE”&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="370" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-10" target="ekuATIdbjf78deo_ckGt-11">
+        <mxCell id="ekuATIdbjf78deo_ckGt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-10" target="ekuATIdbjf78deo_ckGt-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-10" target="ekuATIdbjf78deo_ckGt-12">
+        <mxCell id="ekuATIdbjf78deo_ckGt-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ekuATIdbjf78deo_ckGt-10" target="ekuATIdbjf78deo_ckGt-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-10" value="&lt;span style=&quot;font-size: 15px&quot;&gt;选择模型管道&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ekuATIdbjf78deo_ckGt-10" value="&lt;span style=&quot;font-size: 15px&quot;&gt;选择模型管道&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="310" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-11" target="ekuATIdbjf78deo_ckGt-12">
+        <mxCell id="ekuATIdbjf78deo_ckGt-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-11" target="ekuATIdbjf78deo_ckGt-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-11" value="&lt;span style=&quot;font-size: 15px&quot;&gt;选择历史运行任务&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ekuATIdbjf78deo_ckGt-11" value="&lt;span style=&quot;font-size: 15px&quot;&gt;选择历史运行任务&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="370" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-12" target="ekuATIdbjf78deo_ckGt-17">
+        <mxCell id="ekuATIdbjf78deo_ckGt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-12" target="ekuATIdbjf78deo_ckGt-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-12" value="&lt;span style=&quot;font-size: 15px&quot;&gt;点击“reload”&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ekuATIdbjf78deo_ckGt-12" value="&lt;span style=&quot;font-size: 15px&quot;&gt;点击“reload”&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="430" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-17" target="ekuATIdbjf78deo_ckGt-18">
+        <mxCell id="ekuATIdbjf78deo_ckGt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-17" target="ekuATIdbjf78deo_ckGt-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-17" value="&lt;span style=&quot;font-size: 15px&quot;&gt;填写模型信息&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ekuATIdbjf78deo_ckGt-17" value="&lt;span style=&quot;font-size: 15px&quot;&gt;填写模型信息&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="282" y="530" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-18" target="ekuATIdbjf78deo_ckGt-19">
+        <mxCell id="ekuATIdbjf78deo_ckGt-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-18" target="ekuATIdbjf78deo_ckGt-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-18" value="&lt;span style=&quot;font-size: 15px&quot;&gt;以拖放的方式定制工作流&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ekuATIdbjf78deo_ckGt-18" value="&lt;span style=&quot;font-size: 15px&quot;&gt;以拖放的方式定制工作流&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="282" y="585" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-19" target="ekuATIdbjf78deo_ckGt-21">
+        <mxCell id="ekuATIdbjf78deo_ckGt-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-19" target="ekuATIdbjf78deo_ckGt-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-19" value="&lt;span style=&quot;font-size: 15px&quot;&gt;创建json格式的配置文件&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ekuATIdbjf78deo_ckGt-19" value="&lt;span style=&quot;font-size: 15px&quot;&gt;创建json格式的配置文件&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="282" y="650" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-21" target="ekuATIdbjf78deo_ckGt-37">
+        <mxCell id="ekuATIdbjf78deo_ckGt-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-21" target="ekuATIdbjf78deo_ckGt-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-21" value="&lt;span style=&quot;font-size: 15px&quot;&gt;创建pull request并添加评论&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ekuATIdbjf78deo_ckGt-21" value="&lt;span style=&quot;font-size: 15px&quot;&gt;创建pull request并添加评论&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="282" y="720" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-22" target="ekuATIdbjf78deo_ckGt-33">
+        <mxCell id="ekuATIdbjf78deo_ckGt-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-22" target="ekuATIdbjf78deo_ckGt-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-22" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Jenkins感应评论&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ekuATIdbjf78deo_ckGt-22" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Jenkins感应评论&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="270" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-23" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;glass=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="ekuATIdbjf78deo_ckGt-23" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;glass=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="665" y="715" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-33" target="ekuATIdbjf78deo_ckGt-34">
+        <mxCell id="ekuATIdbjf78deo_ckGt-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-33" target="ekuATIdbjf78deo_ckGt-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-33" value="&lt;span style=&quot;font-size: 15px&quot;&gt;触发Airflow&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ekuATIdbjf78deo_ckGt-33" value="&lt;span style=&quot;font-size: 15px&quot;&gt;触发Airflow&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="350" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-34" value="&lt;span style=&quot;font-size: 15px&quot;&gt;生成并手动触发管道集成任务的DAG&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ekuATIdbjf78deo_ckGt-34" value="&lt;span style=&quot;font-size: 15px&quot;&gt;生成并手动触发管道集成任务的DAG&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="430" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-34" target="ekuATIdbjf78deo_ckGt-36">
+        <mxCell id="ekuATIdbjf78deo_ckGt-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-34" target="ekuATIdbjf78deo_ckGt-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="560" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-48" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-36" target="ekuATIdbjf78deo_ckGt-23">
+        <mxCell id="ekuATIdbjf78deo_ckGt-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-36" target="ekuATIdbjf78deo_ckGt-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-36" value="&lt;span style=&quot;font-size: 15px&quot;&gt;更新管道集成任务查询页面信息&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ekuATIdbjf78deo_ckGt-36" value="&lt;span style=&quot;font-size: 15px&quot;&gt;更新管道集成任务查询页面信息&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="530" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-37" target="ekuATIdbjf78deo_ckGt-22">
+        <mxCell id="ekuATIdbjf78deo_ckGt-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-37" target="ekuATIdbjf78deo_ckGt-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-41" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ekuATIdbjf78deo_ckGt-40">
+        <mxCell id="ekuATIdbjf78deo_ckGt-41" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ekuATIdbjf78deo_ckGt-40" vertex="1" connectable="0">
           <mxGeometry x="-0.2429" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-47" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ekuATIdbjf78deo_ckGt-37" target="ekuATIdbjf78deo_ckGt-23">
+        <mxCell id="ekuATIdbjf78deo_ckGt-47" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ekuATIdbjf78deo_ckGt-37" target="ekuATIdbjf78deo_ckGt-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-37" value="&lt;span style=&quot;font-size: 15px&quot;&gt;pull request&lt;br&gt;是否创建成功&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="ekuATIdbjf78deo_ckGt-37" value="&lt;span style=&quot;font-size: 15px&quot;&gt;pull request&lt;br&gt;是否创建成功&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="460" y="695" width="162" height="90" as="geometry" />
         </mxCell>
       </root>
