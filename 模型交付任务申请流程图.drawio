@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T05:18:46.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="OQA0Komd6Q0CaGvbiMZg" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T05:19:29.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="4edkiPVBHV8a8Lub-kyA" version="14.6.10" type="github">
   <diagram id="ifrcHjR2s2CyXcALeK9n" name="第 1 页">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tka6Fen1VaplqWncl_Fh-3" value="&lt;span style=&quot;font-size: 15px&quot;&gt;点击&lt;br&gt;[RELEASE CD MODEL]&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="69.5" y="390" width="287" height="40" as="geometry" />
+          <mxGeometry x="123" y="390" width="182" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tka6Fen1VaplqWncl_Fh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="tka6Fen1VaplqWncl_Fh-4" target="tka6Fen1VaplqWncl_Fh-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
