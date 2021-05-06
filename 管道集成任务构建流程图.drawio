@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T00:44:57.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="MG3UcfqtZ9GXlHiB4MdM" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T05:11:09.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="4tbOtGrx-IiyW7wCk4V4" version="14.6.10" type="github">
   <diagram id="h-_epVCW1KijTZJuSnWB" name="第 1 页">
-    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-5" value="&lt;span style=&quot;font-size: 15px&quot;&gt;点击&lt;br&gt;“CREATE MODEL PIPELINE”&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ekuATIdbjf78deo_ckGt-5" value="&lt;span style=&quot;font-size: 15px&quot;&gt;点击&lt;br&gt;[CREATE MODEL PIPELINE]&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="370" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ekuATIdbjf78deo_ckGt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-10" target="ekuATIdbjf78deo_ckGt-11" edge="1">
@@ -59,8 +59,8 @@
         <mxCell id="ekuATIdbjf78deo_ckGt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-12" target="ekuATIdbjf78deo_ckGt-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-12" value="&lt;span style=&quot;font-size: 15px&quot;&gt;点击“reload”&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="430" width="140" height="40" as="geometry" />
+        <mxCell id="ekuATIdbjf78deo_ckGt-12" value="&lt;span style=&quot;font-size: 15px&quot;&gt;点击&lt;br&gt;[&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 10.5pt&quot;&gt;RELOAD CI PIPELINE&lt;/span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;]&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="430" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ekuATIdbjf78deo_ckGt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-17" target="ekuATIdbjf78deo_ckGt-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -90,30 +90,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ekuATIdbjf78deo_ckGt-22" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Jenkins感应评论&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="270" width="140" height="40" as="geometry" />
+          <mxGeometry x="654" y="270" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ekuATIdbjf78deo_ckGt-23" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;glass=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="665" y="715" width="90" height="50" as="geometry" />
+          <mxGeometry x="679" y="715" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ekuATIdbjf78deo_ckGt-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-33" target="ekuATIdbjf78deo_ckGt-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ekuATIdbjf78deo_ckGt-33" value="&lt;span style=&quot;font-size: 15px&quot;&gt;触发Airflow&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="350" width="140" height="40" as="geometry" />
+          <mxGeometry x="654" y="350" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ekuATIdbjf78deo_ckGt-34" value="&lt;span style=&quot;font-size: 15px&quot;&gt;生成并手动触发管道集成任务的DAG&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="430" width="140" height="40" as="geometry" />
+          <mxGeometry x="654" y="430" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ekuATIdbjf78deo_ckGt-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-34" target="ekuATIdbjf78deo_ckGt-36" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="560" as="sourcePoint" />
+            <mxPoint x="724" y="560" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ekuATIdbjf78deo_ckGt-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-36" target="ekuATIdbjf78deo_ckGt-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ekuATIdbjf78deo_ckGt-36" value="&lt;span style=&quot;font-size: 15px&quot;&gt;更新管道集成任务查询页面信息&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="530" width="140" height="40" as="geometry" />
+          <mxGeometry x="654" y="530" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ekuATIdbjf78deo_ckGt-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ekuATIdbjf78deo_ckGt-37" target="ekuATIdbjf78deo_ckGt-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -123,11 +123,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ekuATIdbjf78deo_ckGt-47" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ekuATIdbjf78deo_ckGt-37" target="ekuATIdbjf78deo_ckGt-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ekuATIdbjf78deo_ckGt-47" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ekuATIdbjf78deo_ckGt-37" target="ekuATIdbjf78deo_ckGt-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="646" y="740" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ekuATIdbjf78deo_ckGt-37" value="&lt;span style=&quot;font-size: 15px&quot;&gt;pull request&lt;br&gt;是否创建成功&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="460" y="695" width="162" height="90" as="geometry" />
+          <mxGeometry x="470" y="695" width="162" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
