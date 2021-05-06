@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T01:17:02.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="525hNcNBfMmLEIcbVDP5" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T01:18:25.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="el6fXX8DndTjIlGLGmsz" version="14.6.10" type="github">
   <diagram id="kmytcfDloh8X-QQEbOZM" name="第 1 页">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,52 +8,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xd8yetuonLmeL3ue4RGG-1" value="&lt;div&gt;算法模型开发/实验&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="95" y="410" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xd8yetuonLmeL3ue4RGG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xd8yetuonLmeL3ue4RGG-2" target="xd8yetuonLmeL3ue4RGG-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xd8yetuonLmeL3ue4RGG-2" value="&lt;div&gt;管道持续集成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="335" width="90" height="40" as="geometry" />
+          <mxGeometry x="240" y="330" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xd8yetuonLmeL3ue4RGG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xd8yetuonLmeL3ue4RGG-3" target="xd8yetuonLmeL3ue4RGG-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xd8yetuonLmeL3ue4RGG-3" value="&lt;div&gt;管道持续交付&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="275" width="90" height="40" as="geometry" />
+          <mxGeometry x="360" y="250" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xd8yetuonLmeL3ue4RGG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xd8yetuonLmeL3ue4RGG-4" target="xd8yetuonLmeL3ue4RGG-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xd8yetuonLmeL3ue4RGG-4" value="&lt;div&gt;算法模型持续交付&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="215" width="120" height="40" as="geometry" />
+          <mxGeometry x="630" y="165" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xd8yetuonLmeL3ue4RGG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xd8yetuonLmeL3ue4RGG-5" target="xd8yetuonLmeL3ue4RGG-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xd8yetuonLmeL3ue4RGG-5" value="开发代码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="330" width="80" height="50" as="geometry" />
+          <mxGeometry x="110" y="320" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xd8yetuonLmeL3ue4RGG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xd8yetuonLmeL3ue4RGG-8" target="xd8yetuonLmeL3ue4RGG-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xd8yetuonLmeL3ue4RGG-8" value="&lt;div&gt;自动化管道：建模代码测试&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="270" width="80" height="50" as="geometry" />
+          <mxGeometry x="230" y="240" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xd8yetuonLmeL3ue4RGG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xd8yetuonLmeL3ue4RGG-11" target="xd8yetuonLmeL3ue4RGG-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xd8yetuonLmeL3ue4RGG-11" value="&lt;div&gt;自动化管道：算法模型持续训练&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="210" width="80" height="50" as="geometry" />
+          <mxGeometry x="357.5" y="155" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xd8yetuonLmeL3ue4RGG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xd8yetuonLmeL3ue4RGG-12" target="xd8yetuonLmeL3ue4RGG-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xd8yetuonLmeL3ue4RGG-12" value="&lt;div&gt;生成最优算法模型&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="210" width="80" height="50" as="geometry" />
+          <mxGeometry x="490" y="155" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xd8yetuonLmeL3ue4RGG-14" value="&lt;div&gt;自动化管道：算法模型性能监控&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="150" width="80" height="50" as="geometry" />
+          <mxGeometry x="630" y="80" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
