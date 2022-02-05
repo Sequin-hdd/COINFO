@@ -1,1 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2022-02-05T08:00:42.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="14.6.11" etag="KgraEuadVPUlROuM15Mr" type="github"><diagram id="dS93SPSKcSikuWHyCO25">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-05T08:14:40.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="XqxRNcL-KWILNbQJxQge" version="14.6.11" type="github">
+  <diagram id="dS93SPSKcSikuWHyCO25" name="第 1 页">
+    <mxGraphModel dx="1422" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="130" width="120" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="130" width="510" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="460" width="510" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-4" value="堆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="100" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-5" value="栈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-6" value="方法区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="430" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-7" value="mian()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="490" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-8" value="dog: 引用变量名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="450" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-9" value="cat： 引用变量名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="410" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="475" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-11" value="Application" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="480" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-12" value="main（）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="502.5" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-13" value="常量池：旺财" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="248" y="526" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="475" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-17" value="Pet&lt;br&gt;&lt;br&gt;name&lt;br&gt;age&lt;br&gt;shout()" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="472.5" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-19" value="静态方法区&lt;br&gt;&lt;br&gt;static： 和类一起加载" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="550" y="480" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-20" value="new pet(): 0x0001&lt;br&gt;name = &quot;旺财&quot;&lt;br&gt;age = 3&lt;br&gt;shout()" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-21" value="new pet(): 0x0002&lt;br&gt;name = null&lt;br&gt;age = 0&lt;br&gt;shout()" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-23" value="" style="curved=1;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hg3Zbzr-f0oZ_KAzikvr-9" target="Hg3Zbzr-f0oZ_KAzikvr-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="380" as="sourcePoint" />
+            <mxPoint x="440" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="360" />
+              <mxPoint x="210" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hg3Zbzr-f0oZ_KAzikvr-24" value="" style="curved=1;endArrow=classic;html=1;exitX=0.56;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hg3Zbzr-f0oZ_KAzikvr-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180.00000000000003" y="500" as="sourcePoint" />
+            <mxPoint x="263.02" y="272" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="420" />
+              <mxPoint x="210" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
